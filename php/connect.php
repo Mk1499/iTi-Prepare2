@@ -8,10 +8,15 @@ $dbname = 'mailock';
 $host ='db4free.net'  ;
 $dbuser= 'mkhaled';
 $dbpass = '22823910mk14'; */
-$dbname = 'id2937530_iti';
-$host ='localhost'  ;
-$dbuser= 'id2937530_mohamedkhaled1994';
-$dbpass = '22823910mK14';
+// $dbname = 'id2937530_iti';
+// $host ='localhost'  ;
+// $dbuser= 'id2937530_mohamedkhaled1994';
+// $dbpass = '22823910mK14';
+
+$host ='sql7.freemysqlhosting.net'  ;
+$dbname = 'sql7297699';
+$dbuser= 'sql7297699';
+$dbpass = 'Z17lAdnSH7';
 
 $dbname2 = 'sql7297699';
 $host2 ='sql7.freemysqlhosting.net'  ;
