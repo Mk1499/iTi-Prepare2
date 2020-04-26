@@ -1,4 +1,4 @@
 
 # HTID:6141144: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
-php_flag   display_errors       Off
+#php_flag   display_errors       Off
 # DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:6141144:
