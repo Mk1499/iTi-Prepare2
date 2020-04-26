@@ -21,7 +21,7 @@ $dbpass = 'hN8%iE6!';
 $host2 ='sql2.freemysqlhosting.net'  ;
 $dbname2 = 'sql2335776';
 $dbuser2 = 'sql2335776';
-$dbpass2 = 'hN8%iE6!'
+$dbpass2 = 'hN8%iE6!';
 /*
 $dbname2 = 'mailock';
 $host2 ='localhost'  ;
