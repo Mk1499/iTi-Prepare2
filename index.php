@@ -1,5 +1,4 @@
 <?php 
-ini_set('display_errors', 1);
 include('php/connect.php') ; 
 include ('head.html') ; 
 include ('welcome.html') ; 
